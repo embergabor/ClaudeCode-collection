@@ -14,7 +14,7 @@ Projects built with Claude Code.
 | Project | Description | Visibility |
 |---|---|---|
 | [deck-gog-installer](https://github.com/embergabor/deck-gog-installer) | Gamepad-first Steam Deck app that runs GOG installers from a server under Proton. | Private |
-| [wavesafe-deck](https://github.com/embergabor/wavesafe-deck) | WaveSafe for Steam Deck: offline music player controlled from the Quick Access Menu while you game. This is the original monorepo; the shippable plugin now lives in [wavesafe-deck-plugin](https://github.com/embergabor/wavesafe-deck-plugin). | Private |
+| [wavesafe-deck-plugin](https://github.com/embergabor/wavesafe-deck-plugin) | WaveSafe for Steam Deck: a fully offline music player for your own library, controlled from the Quick Access Menu while you game. | Public |
 
 ## E-readers
 
