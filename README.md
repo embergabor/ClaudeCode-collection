@@ -20,7 +20,7 @@ Projects built with Claude Code.
 
 | Project | Description | Visibility |
 |---|---|---|
-| [koreader-calmui](https://github.com/embergabor/koreader-calmui) | Calm UI: a radically simplified KOReader interface for Kobo e-readers (plugin + user patches, no fork). | Private |
+| [koreader-calmui](https://github.com/embergabor/koreader-calmui) | Calm UI: a radically simplified KOReader interface for Kobo e-readers (plugin + user patches, no fork). | Public |
 | [CrossInkLibScan](https://github.com/embergabor/CrossInkLibScan) | Personal fork of [CrossInk](https://github.com/uxjulia/CrossInk) with an added Library Scan. | Public |
 
 ## TV
